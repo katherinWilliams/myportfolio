@@ -23,7 +23,7 @@ $(document).ready(function() {
     });
 
     var typed = new Typed(".typed", {
-        strings: ["Web Developer.", "Graphic Design.", "UI/UX.", "Full Stack Developer."],
+        strings: ["Web Developer.", "Graphic Design.", "UI/UX."],
         typeSpeed: 100,
         loop: true,
         startDelay: 1000,
