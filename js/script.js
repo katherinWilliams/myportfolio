@@ -22,9 +22,7 @@ $(document).ready(function () {
 
   var typed = new Typed('.typed', {
     strings: [
-      'UI/UX.',
-      'Web Content Specialist.',
-      'Web Developer.',
+      'UI/UX Designer.',
       'Graphic Designer.',
       'Full Stack Developer.',
     ],
